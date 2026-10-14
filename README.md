@@ -1,5 +1,11 @@
-## Hi there 👋
-
+# Hi there, I'm Dũng 👋
+A passionate Software Engineer and also a "languages" lover
+- Tech Stack: Java, Python
+- Languages: Vietnamese, English, 日本語 (Japanese)
+- 🌱 I’m currently learning Golang with GORM, gin for APIs.
+  
+### 📫 Connect with Me
+- **Email:** dungtruong15865@gmail.com
 <!--
 **25sDungs/25sDungs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +16,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
